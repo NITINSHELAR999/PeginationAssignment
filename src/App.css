@@ -1,0 +1,28 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  background-color:navy
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+}
+
+.button_holder{
+    display: flex;
+    justify-content: space-around;
+  background-color:yello
+    padding-right:20px;
+  
+}
+.red{
+  background-color:#b3611e;
+  color:black;
+  padding:10px;
+  margin-top: 50px;
+  border-radius:5px;
+}
+#col{
+  background-color:yellow
+}
